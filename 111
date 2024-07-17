@@ -1,0 +1,14 @@
+Data association techniques for multi target tracking 
+•	it shall group the plots into clusters
+•	it shall receive radar plots
+•	It shall perform clustering of plots wrt the tracks
+•	It shall generate possible hypothesis for each cluster
+•	It shall compute joint probabilities for each hypothesis
+•	It shall compute marginal probabilities for each hypothesis
+•	It shall find best hypothesis for target plot association 
+
+Further 
+
+•	Shall perform data association using improved JPDA,GNN,PDA, and other techiques
+•	It shall receive configuration from HMI
+•	It shall generate plots for various data association techiques
